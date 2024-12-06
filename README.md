@@ -3,3 +3,4 @@
 - Pandas basic practise
 - Jupyter Notebooks practise
 - Coding tests I have done in the past, to help with future tests
+- File loader using a class structure
